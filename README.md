@@ -1,8 +1,10 @@
-### Bem vindo! eu ou NATAN MARTINS ✌️
+## Seja Bem vindo! 
+### Eu Sou Natan Martins ✌️ 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanmartins/)
 
-![Natan Martins](https://github-readme-stats.vercel.app/api?username=Natannms&show_icons=true&theme=dracula)
+![Natan Martins ](https://github-readme-stats.vercel.app/api?username=Natannms&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias ☕
 
