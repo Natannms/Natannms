@@ -1,5 +1,3 @@
-<img src="./assets/cover.jpeg" alt="cover" title="cover"/>
-
 ## About me
 
 Hi! My name is Natan, and I work as a FullStack developer at Valle AI, focusing on Artificial Intelligence with Vertex AI, OpenAI, and other tools. I'm also proud to be a GoLang instructor at Alkemy.
