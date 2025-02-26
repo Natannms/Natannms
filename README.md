@@ -18,6 +18,6 @@ I'm passionate about games, technology, and a lot of rock music!
  [![My Skills](https://skillicons.dev/icons?i=ts,nest,express,nodejs,prisma,sequelize,react,nextjs,vue,php,laravel,tailwindcss,sass,docker,nginx,firebase,mongodb,postgres,mysql,redis,go,java,spring,rabbitmq,git,linux,gcp,azure,aws,vercel)](https://skillicons.dev)
 </div> 
 
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfeitosadev/ "linkedin")[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agnusnat.nms@gmail.com?subject=contato "send mail")
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanmartins/ "linkedin")[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agnusnat.nms@gmail.com?subject=contato "send mail")
 
 
